@@ -8,3 +8,4 @@ These scripts were originally covered in the Episode 2 of the Snowflake's Data C
 ## Step-By-Step Guide
 For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](http://quickstarts.snowflake.com/guide/dcdf_incremental_processing)
 "# SnowFlake" 
+"# Snowflake" 
