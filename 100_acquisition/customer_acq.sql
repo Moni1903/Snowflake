@@ -11,6 +11,7 @@
 --  -------- ------------- ----------------------------------
 --  dd/mm/yy
 --------------------------------------------------------------------
+create database DEV_WEBINAR_ORDERS_RL_DB;
 use database DEV_WEBINAR_ORDERS_RL_DB;
 use schema   TPCH;
 use warehouse DEV_WEBINAR_WH;
